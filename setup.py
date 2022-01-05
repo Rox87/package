@@ -11,7 +11,7 @@ setuptools.setup(
     description="A function that returns 'world'",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Rox87/python_world",
+    url="https://github.com/Rox87/package",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
